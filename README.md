@@ -1,7 +1,5 @@
 # 안녕하세요, 윤찬호입니다 👋
 
-# [🔗 LinkedIn · 윤찬호](https://www.linkedin.com/in/tv-요리온-7580223b1/)
-
 **데이터로 가치를 만드는 백엔드 엔지니어.**
 수집 구조 설계부터 분석·활용까지 전 과정을 함께 보는 시야로, 장애 상황까지 염두에 둔 설계를 지향합니다.
 
@@ -9,6 +7,7 @@
 - 🏫 KT Cloud x 구름(groom) 백엔드 부트캠프 수료 예정
 - 📫 yorion01@naver.com
 - 📝 Blog: [Velog](https://velog.io/@ttttom1/posts)
+- 🔗 LinkedIn: [윤찬호](https://www.linkedin.com/in/tv-요리온-7580223b1/)
 - ✍️ *"데이터 분석의 가치는 해석 이전의 수집 환경·저장 구조·처리 흐름이 함께 뒷받침될 때 만들어진다."*
 
 ---
